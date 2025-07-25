@@ -50,16 +50,16 @@ A detailed breakdown is available in `/budget/budget-breakdown.xlsx`.
 
 ## Contributors
 
-| Role | Name | Student Number |
-|------|------|----------------|
-| Networking Setup | CS Tsetsa | 42010225 |
-| Topology Design | O Khechane | 34285180 |
-| Documentation | MP Thabane | 38697505 |
-| Budget Research | EM Machete | 38123908 |
-| Networking Setup | K Thobejane | 35819685 |
-| Topology Design | TB Mlambo | 40451720 |
-| Documentation | LS Mavhungu | 44418450 |
-| Budget Research | DL Zame | 41362918 |
+| Role | Name |
+|------|------|
+| Networking Setup | CS Tsetsa |
+| Topology Design | O Khechane |
+| Documentation | MP Thabane |
+| Budget Research | EM Machete |
+| Networking Setup | K Thobejane |
+| Topology Design | TB Mlambo |
+| Documentation | LS Mavhungu |
+| Budget Research | DL Zame |
 
 ---
 
